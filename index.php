@@ -2,7 +2,7 @@
 <head>
 	<title></title>
 <body>
-	<img src="classdiagram.png" />
+	<img src="activitydiagram.png" />
 </body>
 </head>
 </html>
